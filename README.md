@@ -3,5 +3,4 @@ A C++ function that appends the correct ordinal indicator for all natural number
 
 
 
-27 Sept '17,
-The core code is complete. The last thing to do is write a proper header and class file.
+27 September 2017: The core code is complete. The last thing to do is write a proper header and class file.
